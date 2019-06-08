@@ -7,7 +7,8 @@ then enter your badge count
 rank^(0.9937^(badges^2))
 
 
-
+no api, no linking your profile, none of that COMPLICATED stuff
+good ol' MATH EQUATION
 
 
 pro programmer
